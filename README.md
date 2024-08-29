@@ -4,9 +4,9 @@ Welcome to the Java Repository! This repository contains a collection of Java pr
 
 ## Table of Contents
 Core Java Sample Programs
-- Java Fundamentals
-+ Java 8 Features
-* Java Projects
+- [Java Fundamentals](https://github.com/Viswa-Sai-Reddy/Java/tree/main/Java_A-Z).
++ [Java 8 Features](https://github.com/Viswa-Sai-Reddy/Java/tree/main/Java_8).
+* [Java Projects](https://github.com/Viswa-Sai-Reddy/Java/tree/main/Projects).
 ## Core Java Sample Programs
 This folder contains a variety of sample programs that cover essential concepts of Java. These examples illustrate basic programming techniques, object-oriented principles, and common practices in Java development.
 
